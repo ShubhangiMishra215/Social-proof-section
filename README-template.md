@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- **Solution URL:** [Add solution URL here](https://github.com/ShubhangiMishra215/Social-proof-section.git)
-- **Live Site URL:** [Add live site URL here](https://shubhangimishra215.github.io/Social-proof-section/)
+- **Solution URL:** (https://github.com/ShubhangiMishra215/Social-proof-section.git)
+- **Live Site URL:** (https://shubhangimishra215.github.io/Social-proof-section/)
 
 ## My process
 
